@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Machine Learning and working on some articles to teach how do to somethings on development
-- ⚡ Fun fact: Team Xbox ![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)&nbsp;
+- ⚡ Fun fact: Team Xbox
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;

@@ -1,4 +1,2 @@
-### Hello
-
 - I’m currently learning Machine Learning and working on some articles to teach how to do some things in development.
 - I have over 7 years of experience in development, using technologies such as .NET, C#, JavaScript, AWS, Azure, and others.
